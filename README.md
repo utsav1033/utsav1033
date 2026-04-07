@@ -53,7 +53,7 @@ I build ML systems and write code that works. Currently job hunting for early-st
 
 - 📧 **Looking for:** Early-stage AI startups, ML engineer roles, backend engineer roles  
 - 🤝 **Open to:** Discussions on ML systems, system design, and learning  
-- 💼 **LinkedIn:** [Your LinkedIn URL]
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/utsav-khairnar/)]
 
 ---
 
