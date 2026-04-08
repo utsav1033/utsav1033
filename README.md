@@ -13,6 +13,7 @@ open to contribute and collaborate on AI and Cloud!</br>
 [![GitHub](https://img.shields.io/badge/GitHub-8b949e?style=for-the-badge&logo=github&color=161b22&logoColor=8b949e)](https://github.com/utsav1033)
 [![LeetCode](https://img.shields.io/badge/LeetCode-e3b341?style=for-the-badge&logo=leetcode&color=2b1a00&logoColor=e3b341)](https://leetcode.com/hiccupwatch)
 
+</div>
 ---
 
 ### stack
