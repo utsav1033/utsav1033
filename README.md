@@ -2,7 +2,7 @@
 
 ![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
 
-# passionate in building things at the intersection of AI and backend systems. </br>
+### passionate in building things at the intersection of AI and backend systems. </br>
 
 currently exploring DSA.</br>
 open to contribute and collaborate.</br>
