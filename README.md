@@ -74,8 +74,6 @@ db       mysql   sqlite   supabase
 
 ![sonic](https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.svg)
 
-```
-✦  t h a n k  y o u  f o r  v i s i t i n g  ✦
-```
+![thankyou](https://raw.githubusercontent.com/utsav1033/utsav1033/main/thankyou.svg)
 
 </div>
