@@ -2,9 +2,9 @@
 
 ![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B21A8?style=for-the-badge&logoColor=white)]()
-[![LLMs](https://img.shields.io/badge/LLMs-6B21A8?style=for-the-badge&logoColor=white)]()
-[![Backend Systems](https://img.shields.io/badge/Backend%20Systems-6B21A8?style=for-the-badge&logoColor=white)]()
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-15803D?style=for-the-badge&logoColor=white)]()
+[![LLMs](https://img.shields.io/badge/LLMs-15803D?style=for-the-badge&logoColor=white)]()
+[![Backend Systems](https://img.shields.io/badge/Backend%20Systems-15803D?style=for-the-badge&logoColor=white)]()
 <br>
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/utsav1033)
