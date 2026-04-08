@@ -1,34 +1,27 @@
-<!-- alien.svg must be uploaded to root of your utsav1033/utsav1033 repo -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="70" height="45" alt="pixel alien"/>
+
+<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="64" alt="o/"/>
+
 <br/>
-<sub><code>o/ &nbsp;hi there</code></sub>
+
+# utsav1033
+
+`ml` `backend` `llms` `c++ dsa`
+
 </div>
-
-<br/>
-
-```
-// final year cs undergrad  |  ml · backend · llms · c++ dsa
-```
-
-<h1 align="center">__utsav1033__</h1>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### about
 
-**focus**
-- LLMs, neural networks, ML systems
-- FastAPI · Docker · Nginx · AWS
-- C++ & DSA : Striver A2Z
-- Next.js, deployment pipelines
+final year cs undergrad &mdash; building things at the intersection of ML and backend systems.
 
-</td>
-<td valign="top" width="50%">
-
-**stack**
+| | |
+|:--|:--|
+| focus | LLMs · neural networks · ML systems |
+| infra | FastAPI · Docker · Nginx · AWS |
+| learning | C++ & DSA &mdash; Striver A2Z |
+| also | Next.js · deployment pipelines |
 
 ```
 lang   python  c++  js/ts
@@ -38,82 +31,30 @@ api    fastapi  spring-boot
 db     mysql  sqlite  supabase
 ```
 
-</td>
-</tr>
-</table>
+---
+
+### projects
+
+| project | status | about |
+|:--|:--|:--|
+| [RAGHealthCareBot](#) | ![](https://img.shields.io/badge/wip-555?style=flat-square) | RAG-based medical QA assistant. vector DB + auth in progress. |
+| [SaltYieldPrediction](#) | ![](https://img.shields.io/badge/deployed-2d6a4f?style=flat-square) | salt yield ML pipeline for Gujarat pan farmers. built at RIL. |
+| [txt2sql](#) | ![](https://img.shields.io/badge/upcoming-333?style=flat-square&labelColor=333) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
+| [url-shortener](#) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | URL shortener with redirect tracking and REST API. |
+| [prarthanaverse.com](#) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | Next.js on a VPS — Docker + Nginx. writeup on server setup and container lifecycle. |
 
 ---
 
-## projects
+### dsa
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `RAGHealthCareBot` &nbsp;·&nbsp; `wip`
-
-RAG-based medical QA assistant.
-Medical diagnosis based on past records, local conditions and other factors
-Vector DB and auth layer in progress.
-
-`python` `rag` `fastapi` `vector-db`
-
-</td>
-<td width="50%" valign="top">
-
-### `SaltYieldPrediction` &nbsp;·&nbsp; `deployed`
-
-ML pipeline predicting salt yield for Gujarat pan farmers. Built during Reliance internship.
-
-`xgboost` `fastapi` `aws` `scikit-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `txt2sql` &nbsp;·&nbsp; `upcoming`
-
-Fine-tuning an LLM on NL→SQL.
-Building dataset + training loop.
-
-`pytorch` `lora` `hf-transformers` `sql`
-
-</td>
-<td width="50%" valign="top">
-
-### `serverless-url-shortener` &nbsp;·&nbsp; `live`
-
-Serverless URL shortener using AWS S3 and Python.
-
-`fastapi` `python` `docker` `AWS`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### `prarthanaverse.com` &nbsp;—&nbsp; deployment writeup &nbsp;·&nbsp; `live`
-
-Next.js on a remote VPS — Docker containers behind Nginx reverse proxy.
-Server setup, CI trigger, container lifecycle.
-
-`nextjs` `docker` `nginx` `vps` `linux`
-
-</td>
-</tr>
-</table>
-
----
-
-## dsa
-
-> **[utsav1033/dsa-cpp](https://github.com/utsav1033/dsa-cpp)** : Striver A2Z in C++
-> covered: arrays · recursion · backtracking · binary search · vectors
+> **[dsa-cpp](https://github.com/utsav1033/dsa-cpp)** &nbsp;·&nbsp; Striver A2Z in C++
+>
+> covered so far: arrays · recursion · backtracking · binary search · vectors
+>
 > `early days (-.-)zzz`
 
 ---
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="52" height="34" alt="pixel alien"/>
+<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="44" alt=""/>
 </div>
