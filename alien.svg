@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 40" width="80" height="40">
+  <style>
+    .arm { animation: wave 0.6s ease-in-out infinite alternate; transform-origin: 62px 18px; }
+    @keyframes wave { from { transform: rotate(-20deg); } to { transform: rotate(20deg); } }
+    .blink { animation: blink 3s ease-in-out infinite; }
+    @keyframes blink { 0%,90%,100% { opacity:1; } 95% { opacity:0; } }
+  </style>
+  <!-- pixel body 5px scale -->
+  <!-- row1: antenna -->
+  <rect x="30" y="0" width="5" height="5" fill="#58d68d"/>
+  <!-- row2: head -->
+  <rect x="20" y="5" width="5" height="5" fill="#58d68d"/>
+  <rect x="25" y="5" width="5" height="5" fill="#58d68d"/>
+  <rect x="30" y="5" width="5" height="5" fill="#58d68d"/>
+  <rect x="35" y="5" width="5" height="5" fill="#58d68d"/>
+  <rect x="40" y="5" width="5" height="5" fill="#58d68d"/>
+  <!-- row3: eyes -->
+  <rect x="20" y="10" width="5" height="5" fill="#58d68d"/>
+  <rect x="25" y="10" width="5" height="5" fill="#eafaf1" class="blink"/>
+  <rect x="30" y="10" width="5" height="5" fill="#58d68d"/>
+  <rect x="35" y="10" width="5" height="5" fill="#eafaf1" class="blink"/>
+  <rect x="40" y="10" width="5" height="5" fill="#58d68d"/>
+  <!-- row4: body -->
+  <rect x="20" y="15" width="5" height="5" fill="#58d68d"/>
+  <rect x="25" y="15" width="5" height="5" fill="#58d68d"/>
+  <rect x="30" y="15" width="5" height="5" fill="#58d68d"/>
+  <rect x="35" y="15" width="5" height="5" fill="#58d68d"/>
+  <rect x="40" y="15" width="5" height="5" fill="#58d68d"/>
+  <!-- waving arm -->
+  <g class="arm">
+    <rect x="45" y="15" width="5" height="5" fill="#58d68d"/>
+    <rect x="50" y="10" width="5" height="5" fill="#58d68d"/>
+    <rect x="55" y="5" width="5" height="5" fill="#58d68d"/>
+  </g>
+  <!-- left arm -->
+  <rect x="15" y="15" width="5" height="5" fill="#58d68d"/>
+  <!-- row5: feet -->
+  <rect x="20" y="20" width="5" height="5" fill="#58d68d"/>
+  <rect x="40" y="20" width="5" height="5" fill="#58d68d"/>
+</svg>
