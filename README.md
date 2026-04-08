@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="64" alt="o/"/>
+<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.gif" width="64" alt="o/"/>
 
 <br/>
 
@@ -37,17 +37,17 @@ db     mysql  sqlite  supabase
 
 | project | status | about |
 |:--|:--|:--|
-| [RAGHealthCareBot](#) | ![](https://img.shields.io/badge/wip-555?style=flat-square) | RAG-based medical QA assistant. vector DB + auth in progress. |
-| [SaltYieldPrediction](#) | ![](https://img.shields.io/badge/deployed-2d6a4f?style=flat-square) | salt yield ML pipeline for Gujarat pan farmers. built at RIL. |
-| [txt2sql](#) | ![](https://img.shields.io/badge/upcoming-333?style=flat-square&labelColor=333) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
-| [url-shortener](#) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | URL shortener with redirect tracking and REST API. |
+| [RAG-HealthCare-Bot](#) | ![](https://img.shields.io/badge/wip-555?style=flat-square) | RAG-based medical QA assistant. vector DB + auth in progress. |
+| [Salt-Yield-Prediction](#) | ![](https://img.shields.io/badge/deployed-2d6a4f?style=flat-square) | salt yield ML pipeline for Gujarat pan farmers. built at RIL. |
+| [txt-2-sql](#) | ![](https://img.shields.io/badge/upcoming-333?style=flat-square&labelColor=333) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
+| [serverless-url-shortener](#) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square)(https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | URL shortener with redirect tracking and REST API. |
 | [prarthanaverse.com](#) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | Next.js on a VPS — Docker + Nginx. writeup on server setup and container lifecycle. |
 
 ---
 
 ### dsa
 
-> **[dsa-cpp](https://github.com/utsav1033/dsa-cpp)** &nbsp;·&nbsp; Striver A2Z in C++
+> **[dsa-cpp](https://github.com/utsav1033/pret-dsa)** &nbsp;·&nbsp; Striver A2Z in C++
 >
 > covered so far: arrays · recursion · backtracking · binary search · vectors
 >
@@ -56,5 +56,5 @@ db     mysql  sqlite  supabase
 ---
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="44" alt=""/>
+<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.gif" width="44" alt=""/>
 </div>
