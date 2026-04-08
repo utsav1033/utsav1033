@@ -6,15 +6,16 @@
 [![LLMs](https://img.shields.io/badge/LLMs-0F766E?style=for-the-badge&logoColor=white)]()
 [![Backend Systems](https://img.shields.io/badge/Backend%20Systems-0F766E?style=for-the-badge&logoColor=white)]()
 <br>
+
 [![C++](https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
 [![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/utsav1033)
 [![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/utsav1033)
 <br>
-[![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/utsav1033)
-[![Docker](https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utsav1033)
-[![PyTorch](https://img.shields.io/badge/PyTorch-E11D48?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/utsav1033)
-[![AWS](https://img.shields.io/badge/AWS-374151?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/utsav1033)
-[![Nginx](https://img.shields.io/badge/Nginx-374151?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/utsav1033)
+[![FastAPI](https://img.shields.io/badge/FastAPI-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/utsav1033)
+[![Docker](https://img.shields.io/badge/Docker-1E40AF?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utsav1033)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1D4ED8?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/utsav1033)
+[![AWS](https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/utsav1033)
+[![nginx](https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/utsav1033)
 
 </div>
 
