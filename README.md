@@ -2,10 +2,10 @@
 
 ![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
 
-
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logoColor=white)]()
 [![LLMs](https://img.shields.io/badge/LLMs-0f172a?style=for-the-badge&logoColor=white)]()
 [![Backend Systems](https://img.shields.io/badge/Backend%20Systems-0f172a?style=for-the-badge&logoColor=white)]()
+[![Cloud](https://img.shields.io/badge/Cloud-0f172a?style=for-the-badge&logoColor=white)]()
 <br>
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
@@ -14,22 +14,22 @@
 <br>
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/utsav1033)
-[![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utsav1033)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/utsav1033)
 [![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/utsav1033)
-
+[![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utsav1033)
+[![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://github.com/utsav1033)
 </div>
 
 ---
 
 ### about
 
-interested in building things at the intersection of AI and backend systems.
+interested in building things at the intersection of AI and backend systems. <br>
 always open to contribute and collaborate!
 
 | | |
 |:--|:--|
-| focus | LLMs · neural networks · backend systems |
+| focus | LLMs · neural networks · backend systems · cloud |
 | infra | FastAPI · Docker · Nginx · AWS |
 | learning | C++ & DSA — Striver A2Z |
 | also | Next.js · deployment pipelines |
@@ -37,11 +37,9 @@ always open to contribute and collaborate!
 ---
 ### domains
 
-`machine learning` · `llms` · `backend systems` 
+`machine learning` · `neural networks` · `llms` · `backend systems` · `cloud`
 
 ---
-
-### stack
 
 ### stack
 
@@ -62,7 +60,7 @@ always open to contribute and collaborate!
 | [RAGHealthCareBot](https://github.com/utsav1033/RAG-Healthcare-Chatbot) &nbsp; [![live app](https://img.shields.io/badge/live%20app-2d6a4f?style=flat-square)](https://health-kiosk-oaw3.onrender.com) | ![](https://img.shields.io/badge/wip-555?style=flat-square) | RAG-based medical QA assistant. vector DB + auth in progress. |
 | [SaltYieldPrediction](https://github.com/utsav1033/Salt-Yield-Prediction) | ![](https://img.shields.io/badge/deployed-2d6a4f?style=flat-square) | salt yield ML pipeline for Gujarat pan farmers. built at Reliance Industries Ltd. |
 | [Pret A Query: text2sql](https://github.com/utsav1033/pret-a-query) | ![](https://img.shields.io/badge/upcoming-333?style=flat-square) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
-| [url-shortener](https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | URL shortener with redirect tracking and REST API. |
+| [serverless-url-shortener](https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | Serverless URL shortner using AWS Lambda and S3 |
 | [prarthanaverse.com](https://github.com/utsav1033/prarthana-deployment) &nbsp; [![site](https://img.shields.io/badge/site-2d6a4f?style=flat-square)](https://prarthanaverse.com) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | Next.js on a VPS — Docker + Nginx. server setup + container lifecycle. |
 
 ---
