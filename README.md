@@ -1,6 +1,6 @@
 <div align="center">
 
-# utsav1033
+# hi, i am utsav khairnar 
 
 `ml` &nbsp;·&nbsp; `llms` &nbsp;·&nbsp; `backend` &nbsp;·&nbsp; `c++`
 
@@ -20,11 +20,12 @@
 
 ### about
 
-final year cs undergrad — building things at the intersection of ML and backend systems.
+interested in building things at the intersection of AI and backend systems.
+always open to contribute and collaborate!
 
 | | |
 |:--|:--|
-| focus | LLMs · neural networks · ML systems |
+| focus | LLMs · neural networks · backend systems |
 | infra | FastAPI · Docker · Nginx · AWS |
 | learning | C++ & DSA — Striver A2Z |
 | also | Next.js · deployment pipelines |
@@ -66,8 +67,6 @@ db       mysql   sqlite   supabase
 ---
 
 <div align="center">
-
-![sonic](https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonicc.svg)
 
 ![thankyou](https://raw.githubusercontent.com/utsav1033/utsav1033/main/thankyou.svg)
 
