@@ -1,69 +1,84 @@
-# Hey, I'm Utsav
+<!-- pixel alien: paste the HTML version for rendered README, or use the text below -->
 
-**B.Tech Computer Engineering** @ Pillai College of Engineering, Mumbai | Graduating June 2026
+```
+  o/
+ (|)  hi there
+```
 
-I build ML systems and write code that works. Currently job hunting for early-stage AI startups and entry-level roles across India.
+# utsav1033
 
----
-
-## **What I've Built**
-
-### 🌾 Salt Yield Prediction System
-**[Production ML at Reliance Industries]**
-- XGBoost model predicting salt pan yields with 92% R² on validation data
-- FastAPI backend, AWS deployment (Lambda, DynamoDB, S3, EC2)
-- Deployed across 500+ salt pan farmers in Gujarat
-- **Stack:** Python, XGBoost, FastAPI, AWS, Docker, Nginx
-- **Key insight:** Circular encoding for wind direction + monsoon-window aggregation cut RMSE by 40%
-
-### 📋 LC Scrutiny Automation
-**[Production Microservices at Reliance Industries]**
-- Spring Boot + Angular + Python automation for letter of credit processing
-- Reduced manual review time from hours to minutes
-- Integrated with legacy banking systems
-- **Stack:** Spring Boot, Angular, Python, Microservices, CI/CD
-
-### 🎯 DSA & Competitive Programming
-**[Active learning - see `dsa-journey` repo]**
-- Arrays, recursion, binary search, vectors, trees (in progress)
-- Following Striver's A2Z roadmap with a focus on mental models over pattern matching
-- Solving problems from first principles, no memorization
+```
+// final year cs undergrad | ml · backend · llms · c++ dsa
+```
 
 ---
 
-## **Current Focus**
+## about
 
-- **C++ & DSA** — Building competitive programming fundamentals (Striver A2Z)
-- **PyTorch & LLMs** — Learning from Karpathy's `makemore` → `nanoGPT` → HuggingFace finetuning
-- **Interview Readiness** — System design, technical depth, communication
-
----
-
-## **Tech Stack**
-
-**Languages:** Python, Java, C++, SQL  
-**ML/Data:** PyTorch, TensorFlow/Keras, XGBoost, scikit-learn, Pandas  
-**Backend:** FastAPI, Spring Boot, microservices, REST APIs  
-**DevOps:** AWS (Lambda, DynamoDB, S3, EC2), Docker, Nginx, GitHub Actions, Terraform  
-**Tools:** Git, Linux, Jupyter, VS Code, IntelliJ IDEA
+| | |
+|---|---|
+| focus | LLMs, neural networks, ML systems |
+| backend | FastAPI, Docker, Nginx, AWS |
+| learning | C++ & DSA — Striver A2Z |
+| also | Next.js, deployment pipelines |
 
 ---
 
-## **Quick Links**
+## projects
 
-- 📧 **Looking for:** Early-stage AI startups, ML engineer roles, backend engineer roles  
-- 🤝 **Open to:** Discussions on ML systems, system design, and learning  
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/utsav-khairnar/)]
+<table>
+<tr>
+<td width="50%">
+
+### RAGHealthCareBot `wip`
+RAG-based medical QA assistant. Vector DB and auth layer in progress.
+
+`python` `rag` `fastapi` `vector-db`
+
+</td>
+<td width="50%">
+
+### SaltYieldPrediction `deployed`
+ML pipeline predicting salt yield for Gujarat pan farmers. Built at Reliance internship.
+
+`xgboost` `fastapi` `aws` `scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### txt2sql `upcoming`
+Fine-tuning an LLM to translate natural language into SQL queries.
+
+`pytorch` `lora` `hf-transformers` `sql`
+
+</td>
+<td width="50%">
+
+### url-shortener `live`
+URL shortener service with redirect tracking and clean API.
+
+`fastapi` `python` `docker`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### prarthanaverse.com — deployment writeup `live`
+Next.js app deployed to a remote VPS using Docker + Nginx. Full notes on server setup, container orchestration, and reverse proxy config.
+
+`nextjs` `docker` `nginx` `vps` `linux`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## **Latest Projects**
+## dsa journey
 
-- `salt-yield-prediction` — Production ML system (detailed README coming)
-- `lc-scrutiny-automation` — Microservices automation (detailed README coming)
-- `dsa-journey` — Active DSA learning repo (updated weekly)
-- `ml-fundamentals` — PyTorch implementation from scratch (coming soon)
-
----
-
-*Updating this regularly. Last updated: April 2026.*
+> **utsav1033/dsa-cpp** — Striver A2Z in C++.  
+> Covered: arrays, recursion, backtracking, binary search, vectors.  
+> Early days. (-.-)zzz
