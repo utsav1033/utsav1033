@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.gif" width="64" alt="o/"/>
+<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="64" alt="o/"/>
 
 <br/>
 
@@ -56,5 +56,5 @@ db     mysql  sqlite  supabase
 ---
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.gif" width="44" alt=""/>
+<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="44" alt=""/>
 </div>
