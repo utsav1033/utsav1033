@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="64" alt="o/"/>
-
-<br/>
-
 # utsav1033
 
-`ml` `backend` `llms` `c++ dsa`
+`ml` &nbsp;·&nbsp; `backend` &nbsp;·&nbsp; `llms` &nbsp;·&nbsp; `c++ dsa`
 
 <br/>
 
-[![ML](https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=flat-square&logoColor=white)](https://github.com/utsav1033)
-[![LLMs](https://img.shields.io/badge/LLMs-1a1a2e?style=flat-square&logoColor=white)](https://github.com/utsav1033)
-[![Neural Networks](https://img.shields.io/badge/Neural%20Networks-1a1a2e?style=flat-square&logoColor=white)](https://github.com/utsav1033)
-[![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/utsav1033)
-[![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/utsav1033)
-[![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white)](https://github.com/utsav1033)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/utsav1033)
-[![C++](https://img.shields.io/badge/C%2B%2B-1a1a2e?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
+![pacman](https://raw.githubusercontent.com/utsav1033/utsav1033/main/pacman.svg)
+
+<br/>
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/utsav1033)
+[![LLMs](https://img.shields.io/badge/LLMs-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/utsav1033)
+[![Neural Networks](https://img.shields.io/badge/Neural%20Networks-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/utsav1033)
+[![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/utsav1033)
+[![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/utsav1033)
+[![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utsav1033)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/utsav1033)
+[![C++](https://img.shields.io/badge/C%2B%2B-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
 
 </div>
 
@@ -34,12 +34,16 @@ final year cs undergrad — building things at the intersection of ML and backen
 | learning | C++ & DSA — Striver A2Z |
 | also | Next.js · deployment pipelines |
 
+---
+
+### stack
+
 ```
-lang   python  c++  js/ts
-ml     pytorch  xgboost  sklearn  tensorflow
-infra  docker  nginx  aws  terraform
-api    fastapi  spring-boot
-db     mysql  sqlite  supabase
+lang     python   c++   js/ts
+ml       pytorch   xgboost   sklearn   tensorflow
+infra    docker   nginx   aws   terraform
+api      fastapi   spring-boot
+db       mysql   sqlite   supabase
 ```
 
 ---
@@ -66,6 +70,12 @@ db     mysql  sqlite  supabase
 
 ---
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/utsav1033/utsav1033/main/alien.svg" width="44" alt=""/>
+<div align="center">
+
+![sonic](https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.svg)
+
+```
+✦  t h a n k  y o u  f o r  v i s i t i n g  ✦
+```
+
 </div>
