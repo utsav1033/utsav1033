@@ -14,13 +14,6 @@ open to contribute and collaborate.</br>
 
 </div>
 
-|   |   |
-|:--|:--|
-| focus | LLMs · neural networks · backend systems · cloud |
-| infra | FastAPI · Docker · Nginx · AWS |
-| learning | C++ & DSA — Striver A2Z |
-| also | Next.js · deployment pipelines |
-
 ---
 
 ### stack
