@@ -50,7 +50,7 @@ db     mysql  sqlite  supabase
 |:--|:--|:--|
 | [RAGHealthCareBot](https://github.com/utsav1033/RAG-Healthcare-Chatbot) &nbsp; [![live app](https://img.shields.io/badge/live%20app-2d6a4f?style=flat-square)](https://health-kiosk-oaw3.onrender.com) | ![](https://img.shields.io/badge/wip-555?style=flat-square) | RAG-based medical QA assistant. vector DB + auth in progress. |
 | [SaltYieldPrediction](https://github.com/utsav1033/Salt-Yield-Prediction) | ![](https://img.shields.io/badge/deployed-2d6a4f?style=flat-square) | salt yield ML pipeline for Gujarat pan farmers. built at Reliance Industries Ltd. |
-| [txt2sql](https://github.com/utsav1033) | ![](https://img.shields.io/badge/upcoming-333?style=flat-square) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
+| [Pret A Query: text2sql](https://github.com/utsav1033/pret-a-query) | ![](https://img.shields.io/badge/upcoming-333?style=flat-square) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
 | [url-shortener](https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | URL shortener with redirect tracking and REST API. |
 | [prarthanaverse.com](https://github.com/utsav1033/prarthana-deployment) &nbsp; [![site](https://img.shields.io/badge/site-2d6a4f?style=flat-square)](https://prarthanaverse.com) | ![](https://img.shields.io/badge/live-2d6a4f?style=flat-square) | Next.js on a VPS — Docker + Nginx. server setup + container lifecycle. |
 
