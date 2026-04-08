@@ -1,32 +1,30 @@
 <div align="center">
 
+![ML](https://img.shields.io/badge/machine%20learning-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
+![LLMs](https://img.shields.io/badge/LLMs-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
+![Backend](https://img.shields.io/badge/backend%20systems-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
+<br/>
+![Python](https://img.shields.io/badge/Python-79a8ff?style=flat-square&logo=python&color=0d2149&logoColor=79a8ff)
+![C++](https://img.shields.io/badge/C++-6ab0f5?style=flat-square&logo=cplusplus&color=002244&logoColor=6ab0f5)
+![TypeScript](https://img.shields.io/badge/TypeScript-7bb3ff?style=flat-square&logo=typescript&color=0a1f4e&logoColor=7bb3ff)
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-8b949e?style=flat-square&logo=fastapi&color=161b22&logoColor=8b949e)
+![Docker](https://img.shields.io/badge/Docker-8b949e?style=flat-square&logo=docker&color=161b22&logoColor=8b949e)
+![PyTorch](https://img.shields.io/badge/PyTorch-8b949e?style=flat-square&logo=pytorch&color=161b22&logoColor=8b949e)
+![AWS](https://img.shields.io/badge/AWS-8b949e?style=flat-square&logo=amazonaws&color=161b22&logoColor=8b949e)
+![Nginx](https://img.shields.io/badge/Nginx-8b949e?style=flat-square&logo=nginx&color=161b22&logoColor=8b949e)
+
+<br/>
+
 ![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
-
-### hi, i'm utsav
-
-building at the intersection of AI and backend systems — open to collaborate
-
-![ML](https://img.shields.io/badge/machine%20learning-0F6E56?style=flat-square&color=E1F5EE&labelColor=E1F5EE&logo=&logoColor=0F6E56)
-![LLMs](https://img.shields.io/badge/LLMs-0F6E56?style=flat-square&color=E1F5EE&labelColor=E1F5EE)
-![Backend](https://img.shields.io/badge/backend%20systems-0F6E56?style=flat-square&color=E1F5EE&labelColor=E1F5EE)
-
-<sub>languages</sub><br>
-![Python](https://img.shields.io/badge/Python-1D3C8A?style=flat-square&logo=python&color=EEF4FF&logoColor=1D3C8A)
-![C++](https://img.shields.io/badge/C++-003E75?style=flat-square&logo=cplusplus&color=EAF3FF&logoColor=003E75)
-![TypeScript](https://img.shields.io/badge/TypeScript-1B428A?style=flat-square&logo=typescript&color=E8F0FF&logoColor=1B428A)
-
-<sub>tools & frameworks</sub><br>
-![FastAPI](https://img.shields.io/badge/FastAPI-444441?style=flat-square&logo=fastapi&color=F1EFE8&logoColor=444441)
-![Docker](https://img.shields.io/badge/Docker-444441?style=flat-square&logo=docker&color=F1EFE8&logoColor=444441)
-![PyTorch](https://img.shields.io/badge/PyTorch-444441?style=flat-square&logo=pytorch&color=F1EFE8&logoColor=444441)
-![AWS](https://img.shields.io/badge/AWS-444441?style=flat-square&logo=amazonaws&color=F1EFE8&logoColor=444441)
-![Nginx](https://img.shields.io/badge/Nginx-444441?style=flat-square&logo=nginx&color=F1EFE8&logoColor=444441)
 
 </div>
 
 ---
 
 ### about
+
+interested in building things at the intersection of AI and backend systems — always open to contribute and collaborate.
 
 | | |
 |:--|:--|
@@ -41,10 +39,10 @@ building at the intersection of AI and backend systems — open to collaborate
 
 | category | tools |
 |:--|:--|
-| **ml / ai** | ![PyTorch](https://img.shields.io/badge/PyTorch-A32D2D?style=flat-square&logo=pytorch&color=FCEBEB&logoColor=A32D2D) ![TensorFlow](https://img.shields.io/badge/TensorFlow-A32D2D?style=flat-square&logo=tensorflow&color=FCEBEB&logoColor=A32D2D) ![scikit-learn](https://img.shields.io/badge/scikit--learn-A32D2D?style=flat-square&logo=scikitlearn&color=FCEBEB&logoColor=A32D2D) ![XGBoost](https://img.shields.io/badge/XGBoost-A32D2D?style=flat-square&color=FCEBEB&logoColor=A32D2D) |
-| **backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-3B6D11?style=flat-square&logo=fastapi&color=EAF3DE&logoColor=3B6D11) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3B6D11?style=flat-square&logo=springboot&color=EAF3DE&logoColor=3B6D11) |
-| **infra** | ![Docker](https://img.shields.io/badge/Docker-185FA5?style=flat-square&logo=docker&color=E6F1FB&logoColor=185FA5) ![Nginx](https://img.shields.io/badge/Nginx-185FA5?style=flat-square&logo=nginx&color=E6F1FB&logoColor=185FA5) ![AWS](https://img.shields.io/badge/AWS-185FA5?style=flat-square&logo=amazonaws&color=E6F1FB&logoColor=185FA5) ![Terraform](https://img.shields.io/badge/Terraform-185FA5?style=flat-square&logo=terraform&color=E6F1FB&logoColor=185FA5) |
-| **databases** | ![MySQL](https://img.shields.io/badge/MySQL-854F0B?style=flat-square&logo=mysql&color=FAEEDA&logoColor=854F0B) ![SQLite](https://img.shields.io/badge/SQLite-854F0B?style=flat-square&logo=sqlite&color=FAEEDA&logoColor=854F0B) ![Supabase](https://img.shields.io/badge/Supabase-854F0B?style=flat-square&logo=supabase&color=FAEEDA&logoColor=854F0B) |
+| **ml / ai** | ![PyTorch](https://img.shields.io/badge/PyTorch-f47067?style=flat-square&logo=pytorch&color=2d0f0f&logoColor=f47067) ![TensorFlow](https://img.shields.io/badge/TensorFlow-f47067?style=flat-square&logo=tensorflow&color=2d0f0f&logoColor=f47067) ![scikit-learn](https://img.shields.io/badge/scikit--learn-f47067?style=flat-square&logo=scikitlearn&color=2d0f0f&logoColor=f47067) ![XGBoost](https://img.shields.io/badge/XGBoost-f47067?style=flat-square&color=2d0f0f&logoColor=f47067) |
+| **backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-7ee787?style=flat-square&logo=fastapi&color=0f2b0a&logoColor=7ee787) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-7ee787?style=flat-square&logo=springboot&color=0f2b0a&logoColor=7ee787) |
+| **infra** | ![Docker](https://img.shields.io/badge/Docker-79c0ff?style=flat-square&logo=docker&color=0c1f3a&logoColor=79c0ff) ![Nginx](https://img.shields.io/badge/Nginx-79c0ff?style=flat-square&logo=nginx&color=0c1f3a&logoColor=79c0ff) ![AWS](https://img.shields.io/badge/AWS-79c0ff?style=flat-square&logo=amazonaws&color=0c1f3a&logoColor=79c0ff) ![Terraform](https://img.shields.io/badge/Terraform-79c0ff?style=flat-square&logo=terraform&color=0c1f3a&logoColor=79c0ff) |
+| **databases** | ![MySQL](https://img.shields.io/badge/MySQL-e3b341?style=flat-square&logo=mysql&color=2b1a00&logoColor=e3b341) ![SQLite](https://img.shields.io/badge/SQLite-e3b341?style=flat-square&logo=sqlite&color=2b1a00&logoColor=e3b341) ![Supabase](https://img.shields.io/badge/Supabase-e3b341?style=flat-square&logo=supabase&color=2b1a00&logoColor=e3b341) |
 
 ---
 
@@ -52,11 +50,11 @@ building at the intersection of AI and backend systems — open to collaborate
 
 | project | status | about |
 |:--|:--|:--|
-| [RAGHealthCareBot](https://github.com/utsav1033/RAG-Healthcare-Chatbot) &nbsp; [![live app](https://img.shields.io/badge/live%20app-444441?style=flat-square&color=F1EFE8&logoColor=444441)](https://health-kiosk-oaw3.onrender.com) | ![wip](https://img.shields.io/badge/wip-854F0B?style=flat-square&color=FAEEDA&logoColor=854F0B) | RAG-based medical QA assistant. vector DB + auth in progress. |
-| [SaltYieldPrediction](https://github.com/utsav1033/Salt-Yield-Prediction) | ![deployed](https://img.shields.io/badge/deployed-0F6E56?style=flat-square&color=E1F5EE&logoColor=0F6E56) | salt yield ML pipeline for Gujarat pan farmers. built at Reliance Industries Ltd. |
-| [Pret A Query: text2sql](https://github.com/utsav1033/pret-a-query) | ![upcoming](https://img.shields.io/badge/upcoming-444441?style=flat-square&color=F1EFE8&logoColor=444441) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
-| [serverless-url-shortener](https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | ![live](https://img.shields.io/badge/live-0F6E56?style=flat-square&color=E1F5EE&logoColor=0F6E56) | serverless URL shortener using AWS Lambda and S3. |
-| [prarthanaverse.com](https://github.com/utsav1033/prarthana-deployment) &nbsp; [![site](https://img.shields.io/badge/site-444441?style=flat-square&color=F1EFE8&logoColor=444441)](https://prarthanaverse.com) | ![live](https://img.shields.io/badge/live-0F6E56?style=flat-square&color=E1F5EE&logoColor=0F6E56) | Next.js on a VPS — Docker + Nginx. server setup + container lifecycle. |
+| [RAGHealthCareBot](https://github.com/utsav1033/RAG-Healthcare-Chatbot) &nbsp; [![↗](https://img.shields.io/badge/live%20app-8b949e?style=flat-square&color=161b22&logoColor=8b949e)](https://health-kiosk-oaw3.onrender.com) | ![wip](https://img.shields.io/badge/wip-e3b341?style=flat-square&color=2b1a00&logoColor=e3b341) | RAG-based medical QA. vector DB + auth in progress. |
+| [SaltYieldPrediction](https://github.com/utsav1033/Salt-Yield-Prediction) | ![deployed](https://img.shields.io/badge/deployed-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | salt yield ML pipeline for Gujarat pan farmers. built at Reliance Industries. |
+| [Pret A Query: text2sql](https://github.com/utsav1033/pret-a-query) | ![upcoming](https://img.shields.io/badge/upcoming-8b949e?style=flat-square&color=161b22&logoColor=8b949e) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
+| [serverless-url-shortener](https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | ![live](https://img.shields.io/badge/live-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | serverless URL shortener using AWS Lambda + S3. |
+| [prarthanaverse.com](https://github.com/utsav1033/prarthana-deployment) &nbsp; [![↗](https://img.shields.io/badge/site-8b949e?style=flat-square&color=161b22&logoColor=8b949e)](https://prarthanaverse.com) | ![live](https://img.shields.io/badge/live-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | Next.js on VPS — Docker + Nginx. server setup + container lifecycle. |
 
 ---
 
