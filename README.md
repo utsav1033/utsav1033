@@ -6,7 +6,7 @@
 
 currently learning DSA.</br>
 
-open to contribute and collaborate on AI and Cloud!</br>
+ask me anything on AI and Backend :) </br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-f47067?style=for-the-badge&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=for-the-badge&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
