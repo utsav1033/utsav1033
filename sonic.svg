@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- Pixel art Sonic - 3px pixel size, ~32x32 grid -->
+  <!-- Quills / Head -->
+  <g fill="#1268CD">
+    <!-- top quills -->
+    <rect x="39" y="3"  width="3" height="3"/>
+    <rect x="42" y="3"  width="3" height="3"/>
+    <rect x="36" y="6"  width="3" height="3"/>
+    <rect x="39" y="6"  width="3" height="3"/>
+    <rect x="42" y="6"  width="3" height="3"/>
+    <rect x="45" y="6"  width="3" height="3"/>
+    <rect x="30" y="9"  width="3" height="3"/>
+    <rect x="33" y="9"  width="3" height="3"/>
+    <rect x="36" y="9"  width="3" height="3"/>
+    <rect x="39" y="9"  width="3" height="3"/>
+    <rect x="42" y="9"  width="3" height="3"/>
+    <rect x="45" y="9"  width="3" height="3"/>
+    <rect x="48" y="9"  width="3" height="3"/>
+    <rect x="51" y="9"  width="3" height="3"/>
+    <rect x="54" y="9"  width="3" height="3"/>
+    <!-- head -->
+    <rect x="27" y="12" width="3" height="3"/>
+    <rect x="30" y="12" width="3" height="3"/>
+    <rect x="33" y="12" width="3" height="3"/>
+    <rect x="36" y="12" width="3" height="3"/>
+    <rect x="39" y="12" width="3" height="3"/>
+    <rect x="42" y="12" width="3" height="3"/>
+    <rect x="45" y="12" width="3" height="3"/>
+    <rect x="48" y="12" width="3" height="3"/>
+    <rect x="51" y="12" width="3" height="3"/>
+    <rect x="54" y="12" width="3" height="3"/>
+    <rect x="57" y="12" width="3" height="3"/>
+    <rect x="60" y="12" width="3" height="3"/>
+    <rect x="63" y="12" width="3" height="3"/>
+    <rect x="24" y="15" width="3" height="3"/>
+    <rect x="27" y="15" width="3" height="3"/>
+    <rect x="30" y="15" width="3" height="3"/>
+    <rect x="33" y="15" width="3" height="3"/>
+    <rect x="36" y="15" width="3" height="3"/>
+    <rect x="39" y="15" width="3" height="3"/>
+    <rect x="42" y="15" width="3" height="3"/>
+    <rect x="45" y="15" width="3" height="3"/>
+    <rect x="48" y="15" width="3" height="3"/>
+    <rect x="51" y="15" width="3" height="3"/>
+    <rect x="54" y="15" width="3" height="3"/>
+    <rect x="57" y="15" width="3" height="3"/>
+    <rect x="60" y="15" width="3" height="3"/>
+    <rect x="63" y="15" width="3" height="3"/>
+    <rect x="66" y="15" width="3" height="3"/>
+    <!-- eye row left and right flanks -->
+    <rect x="21" y="18" width="3" height="3"/>
+    <rect x="24" y="18" width="3" height="3"/>
+    <rect x="27" y="18" width="3" height="3"/>
+    <rect x="54" y="18" width="3" height="3"/>
+    <rect x="57" y="18" width="3" height="3"/>
+    <rect x="60" y="18" width="3" height="3"/>
+    <rect x="63" y="18" width="3" height="3"/>
+    <rect x="66" y="18" width="3" height="3"/>
+    <rect x="69" y="18" width="3" height="3"/>
+    <rect x="21" y="21" width="3" height="3"/>
+    <rect x="24" y="21" width="3" height="3"/>
+    <rect x="27" y="21" width="3" height="3"/>
+    <rect x="57" y="21" width="3" height="3"/>
+    <rect x="60" y="21" width="3" height="3"/>
+    <rect x="63" y="21" width="3" height="3"/>
+    <rect x="66" y="21" width="3" height="3"/>
+    <rect x="69" y="21" width="3" height="3"/>
+    <!-- body -->
+    <rect x="21" y="24" width="3" height="3"/>
+    <rect x="24" y="24" width="3" height="3"/>
+    <rect x="27" y="24" width="3" height="3"/>
+    <rect x="54" y="24" width="3" height="3"/>
+    <rect x="57" y="24" width="3" height="3"/>
+    <rect x="60" y="24" width="3" height="3"/>
+    <rect x="63" y="24" width="3" height="3"/>
+    <rect x="66" y="24" width="3" height="3"/>
+    <rect x="24" y="27" width="3" height="3"/>
+    <rect x="27" y="27" width="3" height="3"/>
+    <rect x="60" y="27" width="3" height="3"/>
+    <rect x="63" y="27" width="3" height="3"/>
+    <rect x="66" y="27" width="3" height="3"/>
+    <rect x="69" y="27" width="3" height="3"/>
+    <!-- torso -->
+    <rect x="24" y="30" width="3" height="3"/>
+    <rect x="27" y="30" width="3" height="3"/>
+    <rect x="30" y="30" width="3" height="3"/>
+    <rect x="33" y="30" width="3" height="3"/>
+    <rect x="60" y="30" width="3" height="3"/>
+    <rect x="63" y="30" width="3" height="3"/>
+    <rect x="66" y="30" width="3" height="3"/>
+    <rect x="21" y="33" width="3" height="3"/>
+    <rect x="24" y="33" width="3" height="3"/>
+    <rect x="27" y="33" width="3" height="3"/>
+    <rect x="30" y="33" width="3" height="3"/>
+    <rect x="33" y="33" width="3" height="3"/>
+    <rect x="36" y="33" width="3" height="3"/>
+    <rect x="54" y="33" width="3" height="3"/>
+    <rect x="57" y="33" width="3" height="3"/>
+    <rect x="60" y="33" width="3" height="3"/>
+    <rect x="63" y="33" width="3" height="3"/>
+    <rect x="66" y="33" width="3" height="3"/>
+    <rect x="21" y="36" width="3" height="3"/>
+    <rect x="24" y="36" width="3" height="3"/>
+    <rect x="27" y="36" width="3" height="3"/>
+    <rect x="30" y="36" width="3" height="3"/>
+    <rect x="33" y="36" width="3" height="3"/>
+    <rect x="36" y="36" width="3" height="3"/>
+    <rect x="39" y="36" width="3" height="3"/>
+    <rect x="42" y="36" width="3" height="3"/>
+    <rect x="45" y="36" width="3" height="3"/>
+    <rect x="48" y="36" width="3" height="3"/>
+    <rect x="51" y="36" width="3" height="3"/>
+    <rect x="54" y="36" width="3" height="3"/>
+    <rect x="57" y="36" width="3" height="3"/>
+    <rect x="60" y="36" width="3" height="3"/>
+    <rect x="63" y="36" width="3" height="3"/>
+    <!-- lower torso -->
+    <rect x="24" y="39" width="3" height="3"/>
+    <rect x="27" y="39" width="3" height="3"/>
+    <rect x="30" y="39" width="3" height="3"/>
+    <rect x="33" y="39" width="3" height="3"/>
+    <rect x="36" y="39" width="3" height="3"/>
+    <rect x="39" y="39" width="3" height="3"/>
+    <rect x="42" y="39" width="3" height="3"/>
+    <rect x="45" y="39" width="3" height="3"/>
+    <rect x="48" y="39" width="3" height="3"/>
+    <rect x="51" y="39" width="3" height="3"/>
+    <rect x="54" y="39" width="3" height="3"/>
+    <rect x="57" y="39" width="3" height="3"/>
+    <!-- legs -->
+    <rect x="30" y="42" width="3" height="3"/>
+    <rect x="33" y="42" width="3" height="3"/>
+    <rect x="45" y="42" width="3" height="3"/>
+    <rect x="48" y="42" width="3" height="3"/>
+    <rect x="51" y="42" width="3" height="3"/>
+    <rect x="27" y="45" width="3" height="3"/>
+    <rect x="30" y="45" width="3" height="3"/>
+    <rect x="33" y="45" width="3" height="3"/>
+    <rect x="45" y="45" width="3" height="3"/>
+    <rect x="48" y="45" width="3" height="3"/>
+    <rect x="51" y="45" width="3" height="3"/>
+    <rect x="54" y="45" width="3" height="3"/>
+  </g>
+  <!-- Tan/peach face -->
+  <g fill="#E8B48C">
+    <rect x="30" y="18" width="3" height="3"/>
+    <rect x="33" y="18" width="3" height="3"/>
+    <rect x="36" y="18" width="3" height="3"/>
+    <rect x="39" y="18" width="3" height="3"/>
+    <rect x="42" y="18" width="3" height="3"/>
+    <rect x="45" y="18" width="3" height="3"/>
+    <rect x="48" y="18" width="3" height="3"/>
+    <rect x="51" y="18" width="3" height="3"/>
+    <rect x="30" y="21" width="3" height="3"/>
+    <rect x="33" y="21" width="3" height="3"/>
+    <rect x="36" y="21" width="3" height="3"/>
+    <rect x="39" y="21" width="3" height="3"/>
+    <rect x="42" y="21" width="3" height="3"/>
+    <rect x="45" y="21" width="3" height="3"/>
+    <rect x="48" y="21" width="3" height="3"/>
+    <rect x="51" y="21" width="3" height="3"/>
+    <rect x="54" y="21" width="3" height="3"/>
+    <rect x="30" y="24" width="3" height="3"/>
+    <rect x="33" y="24" width="3" height="3"/>
+    <rect x="36" y="24" width="3" height="3"/>
+    <rect x="39" y="24" width="3" height="3"/>
+    <rect x="42" y="24" width="3" height="3"/>
+    <rect x="45" y="24" width="3" height="3"/>
+    <rect x="48" y="24" width="3" height="3"/>
+    <rect x="51" y="24" width="3" height="3"/>
+    <rect x="30" y="27" width="3" height="3"/>
+    <rect x="33" y="27" width="3" height="3"/>
+    <rect x="36" y="27" width="3" height="3"/>
+    <rect x="39" y="27" width="3" height="3"/>
+    <rect x="42" y="27" width="3" height="3"/>
+    <rect x="45" y="27" width="3" height="3"/>
+    <rect x="48" y="27" width="3" height="3"/>
+    <rect x="51" y="27" width="3" height="3"/>
+    <rect x="54" y="27" width="3" height="3"/>
+    <rect x="57" y="27" width="3" height="3"/>
+  </g>
+  <!-- White eye areas -->
+  <g fill="white">
+    <rect x="33" y="18" width="9" height="6" fill="white"/>
+    <rect x="48" y="18" width="9" height="6" fill="white"/>
+  </g>
+  <!-- Green irises -->
+  <g fill="#00B000">
+    <rect x="36" y="18" width="3" height="6"/>
+    <rect x="51" y="18" width="3" height="6"/>
+  </g>
+  <!-- Black pupils -->
+  <rect x="39" y="20" width="3" height="3" fill="black"/>
+  <rect x="54" y="20" width="3" height="3" fill="black"/>
+  <!-- Nose -->
+  <rect x="54" y="27" width="3" height="3" fill="#111"/>
+  <!-- Cream belly -->
+  <g fill="#F5DEB3">
+    <rect x="36" y="33" width="3" height="3"/>
+    <rect x="39" y="33" width="3" height="3"/>
+    <rect x="42" y="33" width="3" height="3"/>
+    <rect x="45" y="33" width="3" height="3"/>
+    <rect x="48" y="33" width="3" height="3"/>
+    <rect x="51" y="33" width="3" height="3"/>
+    <rect x="36" y="36" width="3" height="3"/>
+    <rect x="39" y="36" width="3" height="3"/>
+    <rect x="42" y="36" width="3" height="3"/>
+    <rect x="45" y="36" width="3" height="3"/>
+    <rect x="48" y="36" width="3" height="3"/>
+    <rect x="51" y="36" width="3" height="3"/>
+  </g>
+  <!-- Red shoes -->
+  <g fill="#CC0000">
+    <rect x="21" y="48" width="3" height="3"/>
+    <rect x="24" y="48" width="3" height="3"/>
+    <rect x="27" y="48" width="3" height="3"/>
+    <rect x="30" y="48" width="3" height="3"/>
+    <rect x="33" y="48" width="3" height="3"/>
+    <rect x="45" y="48" width="3" height="3"/>
+    <rect x="48" y="48" width="3" height="3"/>
+    <rect x="51" y="48" width="3" height="3"/>
+    <rect x="54" y="48" width="3" height="3"/>
+    <rect x="57" y="48" width="3" height="3"/>
+    <rect x="60" y="48" width="3" height="3"/>
+    <rect x="18" y="51" width="3" height="3"/>
+    <rect x="21" y="51" width="3" height="3"/>
+    <rect x="24" y="51" width="3" height="3"/>
+    <rect x="27" y="51" width="3" height="3"/>
+    <rect x="30" y="51" width="3" height="3"/>
+    <rect x="33" y="51" width="3" height="3"/>
+    <rect x="36" y="51" width="3" height="3"/>
+    <rect x="42" y="51" width="3" height="3"/>
+    <rect x="45" y="51" width="3" height="3"/>
+    <rect x="48" y="51" width="3" height="3"/>
+    <rect x="51" y="51" width="3" height="3"/>
+    <rect x="54" y="51" width="3" height="3"/>
+    <rect x="57" y="51" width="3" height="3"/>
+    <rect x="60" y="51" width="3" height="3"/>
+    <rect x="63" y="51" width="3" height="3"/>
+  </g>
+  <!-- White shoe trim -->
+  <g fill="white">
+    <rect x="24" y="48" width="3" height="3"/>
+    <rect x="54" y="48" width="3" height="3"/>
+  </g>
+  <!-- Shoe buckle gold -->
+  <g fill="#FFD700">
+    <rect x="27" y="48" width="6" height="3"/>
+    <rect x="48" y="48" width="6" height="3"/>
+  </g>
+</svg>

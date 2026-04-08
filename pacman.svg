@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 72" width="800" height="72" style="background:transparent">
+  <!-- dots -->
+  <g fill="#FFE44E">
+    <circle cx="50"  cy="36" r="3.5"><animate attributeName="opacity" values="1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="80"  cy="36" r="3.5"><animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="110" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="140" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="170" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="200" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="230" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="260" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="290" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="320" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="350" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="380" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="410" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="440" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="470" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="500" cy="36" r="3.5"><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;1" dur="4s" repeatCount="indefinite" calcMode="discrete" begin="0s"/></circle>
+    <circle cx="530" cy="36" r="3.5"/>
+    <circle cx="560" cy="36" r="3.5"/>
+    <circle cx="590" cy="36" r="3.5"/>
+    <circle cx="620" cy="36" r="3.5"/>
+    <circle cx="650" cy="36" r="3.5"/>
+    <circle cx="680" cy="36" r="3.5"/>
+    <circle cx="710" cy="36" r="3.5"/>
+    <circle cx="740" cy="36" r="3.5"/>
+    <circle cx="770" cy="36" r="3.5"/>
+  </g>
+
+  <!-- PACMAN - pixel art yellow, 3px pixels, 13-wide -->
+  <!-- Using a group that moves across -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-50,0;850,0" dur="4s" repeatCount="indefinite" calcMode="linear"/>
+    <!-- pixel art pacman - open mouth frame -->
+    <!-- Cell size: 4px. Origin offset: x-center at col 6, y-center at row 6 -->
+    <!-- Rows top to bottom -->
+    <g fill="#FFE000">
+      <!-- row 0: cols 3-9 -->
+      <rect x="12" y="6" width="4" height="4"/><rect x="16" y="6" width="4" height="4"/><rect x="20" y="6" width="4" height="4"/><rect x="24" y="6" width="4" height="4"/><rect x="28" y="6" width="4" height="4"/><rect x="32" y="6" width="4" height="4"/><rect x="36" y="6" width="4" height="4"/>
+      <!-- row 1: cols 1-11 -->
+      <rect x="4" y="10" width="4" height="4"/><rect x="8" y="10" width="4" height="4"/><rect x="12" y="10" width="4" height="4"/><rect x="16" y="10" width="4" height="4"/><rect x="20" y="10" width="4" height="4"/><rect x="24" y="10" width="4" height="4"/><rect x="28" y="10" width="4" height="4"/><rect x="32" y="10" width="4" height="4"/><rect x="36" y="10" width="4" height="4"/><rect x="40" y="10" width="4" height="4"/><rect x="44" y="10" width="4" height="4"/>
+      <!-- row 2: cols 0-12 -->
+      <rect x="0" y="14" width="4" height="4"/><rect x="4" y="14" width="4" height="4"/><rect x="8" y="14" width="4" height="4"/><rect x="12" y="14" width="4" height="4"/><rect x="16" y="14" width="4" height="4"/><rect x="20" y="14" width="4" height="4"/><rect x="24" y="14" width="4" height="4"/><rect x="28" y="14" width="4" height="4"/><rect x="32" y="14" width="4" height="4"/><rect x="36" y="14" width="4" height="4"/><rect x="40" y="14" width="4" height="4"/><rect x="44" y="14" width="4" height="4"/><rect x="48" y="14" width="4" height="4"/>
+      <!-- row 3: cols 0-9 (mouth starts top right) -->
+      <rect x="0" y="18" width="4" height="4"/><rect x="4" y="18" width="4" height="4"/><rect x="8" y="18" width="4" height="4"/><rect x="12" y="18" width="4" height="4"/><rect x="16" y="18" width="4" height="4"/><rect x="20" y="18" width="4" height="4"/><rect x="24" y="18" width="4" height="4"/><rect x="28" y="18" width="4" height="4"/>
+      <!-- row 4: cols 0-7 -->
+      <rect x="0" y="22" width="4" height="4"/><rect x="4" y="22" width="4" height="4"/><rect x="8" y="22" width="4" height="4"/><rect x="12" y="22" width="4" height="4"/><rect x="16" y="22" width="4" height="4"/><rect x="20" y="22" width="4" height="4"/>
+      <!-- row 5 (mouth wide open): cols 0-4 -->
+      <rect x="0" y="26" width="4" height="4"/><rect x="4" y="26" width="4" height="4"/><rect x="8" y="26" width="4" height="4"/>
+      <!-- row 6 center (widest): cols 0-3 -->
+      <rect x="0" y="30" width="4" height="4"/><rect x="4" y="30" width="4" height="4"/>
+      <!-- row 7: cols 0-4 -->
+      <rect x="0" y="34" width="4" height="4"/><rect x="4" y="34" width="4" height="4"/><rect x="8" y="34" width="4" height="4"/>
+      <!-- row 8: cols 0-7 -->
+      <rect x="0" y="38" width="4" height="4"/><rect x="4" y="38" width="4" height="4"/><rect x="8" y="38" width="4" height="4"/><rect x="12" y="38" width="4" height="4"/><rect x="16" y="38" width="4" height="4"/><rect x="20" y="38" width="4" height="4"/>
+      <!-- row 9: cols 0-9 -->
+      <rect x="0" y="42" width="4" height="4"/><rect x="4" y="42" width="4" height="4"/><rect x="8" y="42" width="4" height="4"/><rect x="12" y="42" width="4" height="4"/><rect x="16" y="42" width="4" height="4"/><rect x="20" y="42" width="4" height="4"/><rect x="24" y="42" width="4" height="4"/><rect x="28" y="42" width="4" height="4"/>
+      <!-- row 10: cols 0-12 -->
+      <rect x="0" y="46" width="4" height="4"/><rect x="4" y="46" width="4" height="4"/><rect x="8" y="46" width="4" height="4"/><rect x="12" y="46" width="4" height="4"/><rect x="16" y="46" width="4" height="4"/><rect x="20" y="46" width="4" height="4"/><rect x="24" y="46" width="4" height="4"/><rect x="28" y="46" width="4" height="4"/><rect x="32" y="46" width="4" height="4"/><rect x="36" y="46" width="4" height="4"/><rect x="40" y="46" width="4" height="4"/><rect x="44" y="46" width="4" height="4"/><rect x="48" y="46" width="4" height="4"/>
+      <!-- row 11: cols 1-11 -->
+      <rect x="4" y="50" width="4" height="4"/><rect x="8" y="50" width="4" height="4"/><rect x="12" y="50" width="4" height="4"/><rect x="16" y="50" width="4" height="4"/><rect x="20" y="50" width="4" height="4"/><rect x="24" y="50" width="4" height="4"/><rect x="28" y="50" width="4" height="4"/><rect x="32" y="50" width="4" height="4"/><rect x="36" y="50" width="4" height="4"/><rect x="40" y="50" width="4" height="4"/><rect x="44" y="50" width="4" height="4"/>
+      <!-- row 12: cols 3-9 -->
+      <rect x="12" y="54" width="4" height="4"/><rect x="16" y="54" width="4" height="4"/><rect x="20" y="54" width="4" height="4"/><rect x="24" y="54" width="4" height="4"/><rect x="28" y="54" width="4" height="4"/><rect x="32" y="54" width="4" height="4"/><rect x="36" y="54" width="4" height="4"/>
+    </g>
+    <!-- Eye pixel -->
+    <rect x="28" y="14" width="4" height="4" fill="#000"/>
+    <rect x="32" y="14" width="4" height="4" fill="#000"/>
+  </g>
+
+  <!-- GHOST 1 - Blinky (red) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-110,0;790,0" dur="4s" repeatCount="indefinite" calcMode="linear"/>
+    <g fill="#FF0000">
+      <!-- dome top -->
+      <rect x="8"  y="10" width="4" height="4"/><rect x="12" y="10" width="4" height="4"/><rect x="16" y="10" width="4" height="4"/><rect x="20" y="10" width="4" height="4"/><rect x="24" y="10" width="4" height="4"/>
+      <rect x="4"  y="14" width="4" height="4"/><rect x="8"  y="14" width="4" height="4"/><rect x="12" y="14" width="4" height="4"/><rect x="16" y="14" width="4" height="4"/><rect x="20" y="14" width="4" height="4"/><rect x="24" y="14" width="4" height="4"/><rect x="28" y="14" width="4" height="4"/>
+      <rect x="0"  y="18" width="4" height="4"/><rect x="4"  y="18" width="4" height="4"/><rect x="8"  y="18" width="4" height="4"/><rect x="12" y="18" width="4" height="4"/><rect x="16" y="18" width="4" height="4"/><rect x="20" y="18" width="4" height="4"/><rect x="24" y="18" width="4" height="4"/><rect x="28" y="18" width="4" height="4"/><rect x="32" y="18" width="4" height="4"/>
+      <!-- eye row (with white gaps) -->
+      <rect x="0"  y="22" width="4" height="4"/><rect x="4"  y="22" width="4" height="4"/>
+      <rect x="20" y="22" width="4" height="4"/>
+      <rect x="28" y="22" width="4" height="4"/><rect x="32" y="22" width="4" height="4"/>
+      <rect x="0"  y="26" width="4" height="4"/><rect x="4"  y="26" width="4" height="4"/>
+      <rect x="20" y="26" width="4" height="4"/>
+      <rect x="28" y="26" width="4" height="4"/><rect x="32" y="26" width="4" height="4"/>
+      <!-- body -->
+      <rect x="0"  y="30" width="4" height="4"/><rect x="4"  y="30" width="4" height="4"/><rect x="8"  y="30" width="4" height="4"/><rect x="12" y="30" width="4" height="4"/><rect x="16" y="30" width="4" height="4"/><rect x="20" y="30" width="4" height="4"/><rect x="24" y="30" width="4" height="4"/><rect x="28" y="30" width="4" height="4"/><rect x="32" y="30" width="4" height="4"/>
+      <rect x="0"  y="34" width="4" height="4"/><rect x="4"  y="34" width="4" height="4"/><rect x="8"  y="34" width="4" height="4"/><rect x="12" y="34" width="4" height="4"/><rect x="16" y="34" width="4" height="4"/><rect x="20" y="34" width="4" height="4"/><rect x="24" y="34" width="4" height="4"/><rect x="28" y="34" width="4" height="4"/><rect x="32" y="34" width="4" height="4"/>
+      <rect x="0"  y="38" width="4" height="4"/><rect x="4"  y="38" width="4" height="4"/><rect x="8"  y="38" width="4" height="4"/><rect x="12" y="38" width="4" height="4"/><rect x="16" y="38" width="4" height="4"/><rect x="20" y="38" width="4" height="4"/><rect x="24" y="38" width="4" height="4"/><rect x="28" y="38" width="4" height="4"/><rect x="32" y="38" width="4" height="4"/>
+      <rect x="0"  y="42" width="4" height="4"/><rect x="4"  y="42" width="4" height="4"/><rect x="8"  y="42" width="4" height="4"/><rect x="12" y="42" width="4" height="4"/><rect x="16" y="42" width="4" height="4"/><rect x="20" y="42" width="4" height="4"/><rect x="24" y="42" width="4" height="4"/><rect x="28" y="42" width="4" height="4"/><rect x="32" y="42" width="4" height="4"/>
+      <!-- bottom fringe -->
+      <rect x="0"  y="46" width="4" height="4"/><rect x="4"  y="46" width="4" height="4"/>
+      <rect x="12" y="46" width="4" height="4"/><rect x="16" y="46" width="4" height="4"/>
+      <rect x="24" y="46" width="4" height="4"/><rect x="28" y="46" width="4" height="4"/>
+    </g>
+    <!-- white eyes -->
+    <rect x="8"  y="22" width="12" height="8" fill="white"/>
+    <rect x="20" y="22" width="8"  height="8" fill="white"/>
+    <!-- pupils (blue, looking left) -->
+    <rect x="8"  y="24" width="4" height="4" fill="#00F"/>
+    <rect x="20" y="24" width="4" height="4" fill="#00F"/>
+  </g>
+
+  <!-- GHOST 2 - Pinky (pink) offset further back -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-175,0;725,0" dur="4s" repeatCount="indefinite" calcMode="linear"/>
+    <g fill="#FFB8DE">
+      <rect x="8"  y="10" width="4" height="4"/><rect x="12" y="10" width="4" height="4"/><rect x="16" y="10" width="4" height="4"/><rect x="20" y="10" width="4" height="4"/><rect x="24" y="10" width="4" height="4"/>
+      <rect x="4"  y="14" width="4" height="4"/><rect x="8"  y="14" width="4" height="4"/><rect x="12" y="14" width="4" height="4"/><rect x="16" y="14" width="4" height="4"/><rect x="20" y="14" width="4" height="4"/><rect x="24" y="14" width="4" height="4"/><rect x="28" y="14" width="4" height="4"/>
+      <rect x="0"  y="18" width="4" height="4"/><rect x="4"  y="18" width="4" height="4"/><rect x="8"  y="18" width="4" height="4"/><rect x="12" y="18" width="4" height="4"/><rect x="16" y="18" width="4" height="4"/><rect x="20" y="18" width="4" height="4"/><rect x="24" y="18" width="4" height="4"/><rect x="28" y="18" width="4" height="4"/><rect x="32" y="18" width="4" height="4"/>
+      <rect x="0"  y="22" width="4" height="4"/><rect x="4"  y="22" width="4" height="4"/>
+      <rect x="20" y="22" width="4" height="4"/>
+      <rect x="28" y="22" width="4" height="4"/><rect x="32" y="22" width="4" height="4"/>
+      <rect x="0"  y="26" width="4" height="4"/><rect x="4"  y="26" width="4" height="4"/>
+      <rect x="20" y="26" width="4" height="4"/>
+      <rect x="28" y="26" width="4" height="4"/><rect x="32" y="26" width="4" height="4"/>
+      <rect x="0"  y="30" width="4" height="4"/><rect x="4"  y="30" width="4" height="4"/><rect x="8"  y="30" width="4" height="4"/><rect x="12" y="30" width="4" height="4"/><rect x="16" y="30" width="4" height="4"/><rect x="20" y="30" width="4" height="4"/><rect x="24" y="30" width="4" height="4"/><rect x="28" y="30" width="4" height="4"/><rect x="32" y="30" width="4" height="4"/>
+      <rect x="0"  y="34" width="4" height="4"/><rect x="4"  y="34" width="4" height="4"/><rect x="8"  y="34" width="4" height="4"/><rect x="12" y="34" width="4" height="4"/><rect x="16" y="34" width="4" height="4"/><rect x="20" y="34" width="4" height="4"/><rect x="24" y="34" width="4" height="4"/><rect x="28" y="34" width="4" height="4"/><rect x="32" y="34" width="4" height="4"/>
+      <rect x="0"  y="38" width="4" height="4"/><rect x="4"  y="38" width="4" height="4"/><rect x="8"  y="38" width="4" height="4"/><rect x="12" y="38" width="4" height="4"/><rect x="16" y="38" width="4" height="4"/><rect x="20" y="38" width="4" height="4"/><rect x="24" y="38" width="4" height="4"/><rect x="28" y="38" width="4" height="4"/><rect x="32" y="38" width="4" height="4"/>
+      <rect x="0"  y="42" width="4" height="4"/><rect x="4"  y="42" width="4" height="4"/><rect x="8"  y="42" width="4" height="4"/><rect x="12" y="42" width="4" height="4"/><rect x="16" y="42" width="4" height="4"/><rect x="20" y="42" width="4" height="4"/><rect x="24" y="42" width="4" height="4"/><rect x="28" y="42" width="4" height="4"/><rect x="32" y="42" width="4" height="4"/>
+      <rect x="0"  y="46" width="4" height="4"/><rect x="4"  y="46" width="4" height="4"/>
+      <rect x="12" y="46" width="4" height="4"/><rect x="16" y="46" width="4" height="4"/>
+      <rect x="24" y="46" width="4" height="4"/><rect x="28" y="46" width="4" height="4"/>
+    </g>
+    <rect x="8"  y="22" width="12" height="8" fill="white"/>
+    <rect x="20" y="22" width="8"  height="8" fill="white"/>
+    <rect x="8"  y="24" width="4" height="4" fill="#00F"/>
+    <rect x="20" y="24" width="4" height="4" fill="#00F"/>
+  </g>
+</svg>
