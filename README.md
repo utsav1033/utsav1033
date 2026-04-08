@@ -1,5 +1,6 @@
 <div align="center">
-
+![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
+<br/>
 ![ML](https://img.shields.io/badge/machine%20learning-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
 ![LLMs](https://img.shields.io/badge/LLMs-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
 ![Backend](https://img.shields.io/badge/backend%20systems-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
@@ -13,10 +14,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-8b949e?style=flat-square&logo=pytorch&color=161b22&logoColor=8b949e)
 ![AWS](https://img.shields.io/badge/AWS-8b949e?style=flat-square&logo=amazonaws&color=161b22&logoColor=8b949e)
 ![Nginx](https://img.shields.io/badge/Nginx-8b949e?style=flat-square&logo=nginx&color=161b22&logoColor=8b949e)
-
-<br/>
-
-![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
 
 </div>
 
