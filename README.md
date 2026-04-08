@@ -2,13 +2,8 @@
 
 # utsav1033
 
-`ml` &nbsp;·&nbsp; `backend` &nbsp;·&nbsp; `llms` &nbsp;·&nbsp; `c++ dsa`
+`ml` &nbsp;·&nbsp; `llms` &nbsp;·&nbsp; `backend` &nbsp;·&nbsp; `c++`
 
-<br/>
-
-![pacman](https://raw.githubusercontent.com/utsav1033/utsav1033/main/pacman.svg)
-
-<br/>
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/utsav1033)
 [![LLMs](https://img.shields.io/badge/LLMs-1a1a2e?style=for-the-badge&logoColor=white)](https://github.com/utsav1033)
@@ -72,7 +67,7 @@ db       mysql   sqlite   supabase
 
 <div align="center">
 
-![sonic](https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonic.svg)
+![sonic](https://raw.githubusercontent.com/utsav1033/utsav1033/main/sonicc.svg)
 
 ![thankyou](https://raw.githubusercontent.com/utsav1033/utsav1033/main/thankyou.svg)
 
