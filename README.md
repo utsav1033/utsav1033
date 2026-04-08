@@ -8,12 +8,11 @@
 [![Backend Systems](https://img.shields.io/badge/Backend%20Systems-0f172a?style=for-the-badge&logoColor=white)]()
 <br>
 
-[![C++](https://img.shields.io/badge/C%2B%2B-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
-[![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
-[![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/utsav1033)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/utsav1033)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/utsav1033)
 
 <br>
-
 [![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/utsav1033)
 [![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utsav1033)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/utsav1033)
@@ -44,13 +43,15 @@ always open to contribute and collaborate!
 
 ### stack
 
+### stack
+
 | category | tools |
 |:--|:--|
-| **languages** | ![Python](https://img.shields.io/badge/python-1a1a2e?style=flat-square) ![C++](https://img.shields.io/badge/c++-1a1a2e?style=flat-square) ![JS/TS](https://img.shields.io/badge/js%2Fts-1a1a2e?style=flat-square) |
-| **ml / ai** | ![PyTorch](https://img.shields.io/badge/pytorch-1a1a2e?style=flat-square) ![TensorFlow](https://img.shields.io/badge/tensorflow-1a1a2e?style=flat-square) ![Scikit](https://img.shields.io/badge/sklearn-1a1a2e?style=flat-square) ![XGBoost](https://img.shields.io/badge/xgboost-1a1a2e?style=flat-square) |
-| **backend** | ![FastAPI](https://img.shields.io/badge/fastapi-1a1a2e?style=flat-square) ![Spring Boot](https://img.shields.io/badge/springboot-1a1a2e?style=flat-square) |
-| **infra** | ![Docker](https://img.shields.io/badge/docker-1a1a2e?style=flat-square) ![Nginx](https://img.shields.io/badge/nginx-1a1a2e?style=flat-square) ![AWS](https://img.shields.io/badge/aws-1a1a2e?style=flat-square) ![Terraform](https://img.shields.io/badge/terraform-1a1a2e?style=flat-square) |
-| **databases** | ![MySQL](https://img.shields.io/badge/mysql-1a1a2e?style=flat-square) ![SQLite](https://img.shields.io/badge/sqlite-1a1a2e?style=flat-square) ![Supabase](https://img.shields.io/badge/supabase-1a1a2e?style=flat-square) |
+| **languages** | ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JS/TS](https://img.shields.io/badge/js%2Fts-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **ml / ai** | ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/xgboost-EC6B23?style=flat-square&logoColor=white) |
+| **backend** | ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| **infra** | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 
 ---
 
