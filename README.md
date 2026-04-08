@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i am utsav khairnar 
+![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
 
 `ml` &nbsp;·&nbsp; `llms` &nbsp;·&nbsp; `backend` &nbsp;·&nbsp; `c++`
 
