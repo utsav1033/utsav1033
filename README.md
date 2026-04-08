@@ -25,7 +25,6 @@
 
 interested in building things at the intersection of AI and backend systems — always open to contribute and collaborate.
 
-| | |
 |:--|:--|
 | focus | LLMs · neural networks · backend systems · cloud |
 | infra | FastAPI · Docker · Nginx · AWS |
