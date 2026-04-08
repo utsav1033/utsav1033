@@ -8,12 +8,10 @@ currently learning DSA.</br>
 
 open to contribute and collaborate on AI and Cloud!</br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-f47067?style=flat-square&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=flat-square&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
-[![GitHub](https://img.shields.io/badge/GitHub-8b949e?style=flat-square&logo=github&color=161b22&logoColor=8b949e)](https://github.com/utsav1033)
-[![LeetCode](https://img.shields.io/badge/LeetCode-e3b341?style=flat-square&logo=leetcode&color=2b1a00&logoColor=e3b341)](https://leetcode.com/utsav1033)
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-f47067?style=for-the-badge&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=for-the-badge&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
+[![GitHub](https://img.shields.io/badge/GitHub-8b949e?style=for-the-badge&logo=github&color=161b22&logoColor=8b949e)](https://github.com/utsav1033)
+[![LeetCode](https://img.shields.io/badge/LeetCode-e3b341?style=for-the-badge&logo=leetcode&color=2b1a00&logoColor=e3b341)](https://leetcode.com/hiccupwatch)
 
 ---
 
