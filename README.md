@@ -1,6 +1,7 @@
 <div align="center">
 ![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
 <br/>
+
 ![ML](https://img.shields.io/badge/machine%20learning-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
 ![LLMs](https://img.shields.io/badge/LLMs-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
 ![Backend](https://img.shields.io/badge/backend%20systems-5DCAA5?style=flat-square&color=04342C&labelColor=04342C)
