@@ -11,7 +11,7 @@
 // final year cs undergrad  |  ml · backend · llms · c++ dsa
 ```
 
-<h1 align="center">utsav1033</h1>
+<h1 align="center">__utsav1033__</h1>
 
 ---
 
@@ -22,7 +22,7 @@
 **focus**
 - LLMs, neural networks, ML systems
 - FastAPI · Docker · Nginx · AWS
-- C++ & DSA — Striver A2Z
+- C++ & DSA : Striver A2Z
 - Next.js, deployment pipelines
 
 </td>
@@ -32,9 +32,10 @@
 
 ```
 lang   python  c++  js/ts
-ml     pytorch  xgboost  sklearn
+ml     pytorch  xgboost  sklearn  tensorflow
 infra  docker  nginx  aws  terraform
 api    fastapi  spring-boot
+db     mysql  sqlite  supabase
 ```
 
 </td>
@@ -52,6 +53,7 @@ api    fastapi  spring-boot
 ### `RAGHealthCareBot` &nbsp;·&nbsp; `wip`
 
 RAG-based medical QA assistant.
+Medical diagnosis based on past records, local conditions and other factors
 Vector DB and auth layer in progress.
 
 `python` `rag` `fastapi` `vector-db`
@@ -61,7 +63,7 @@ Vector DB and auth layer in progress.
 
 ### `SaltYieldPrediction` &nbsp;·&nbsp; `deployed`
 
-ML pipeline predicting salt yield for Gujarat pan farmers. Built during RIL internship.
+ML pipeline predicting salt yield for Gujarat pan farmers. Built during Reliance internship.
 
 `xgboost` `fastapi` `aws` `scikit-learn`
 
@@ -80,11 +82,11 @@ Building dataset + training loop.
 </td>
 <td width="50%" valign="top">
 
-### `url-shortener` &nbsp;·&nbsp; `live`
+### `serverless-url-shortener` &nbsp;·&nbsp; `live`
 
-URL shortener with redirect tracking and clean REST API.
+Serverless URL shortener using AWS S3 and Python.
 
-`fastapi` `python` `docker`
+`fastapi` `python` `docker` `AWS`
 
 </td>
 </tr>
@@ -106,7 +108,7 @@ Server setup, CI trigger, container lifecycle.
 
 ## dsa
 
-> **[utsav1033/dsa-cpp](https://github.com/utsav1033/dsa-cpp)** — Striver A2Z in C++
+> **[utsav1033/dsa-cpp](https://github.com/utsav1033/dsa-cpp)** : Striver A2Z in C++
 > covered: arrays · recursion · backtracking · binary search · vectors
 > `early days (-.-)zzz`
 
