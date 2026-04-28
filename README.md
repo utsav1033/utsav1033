@@ -36,7 +36,7 @@ ask me anything on AI and Cloud Systems :) </br>
 | [SaltYieldPrediction](https://github.com/utsav1033/Salt-Yield-Prediction) | ![deployed](https://img.shields.io/badge/deployed-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | salt yield ML pipeline for Gujarat pan farmers. built at Reliance Industries. |
 | [Pret A Query: text2sql](https://github.com/utsav1033/pret-a-query) | ![upcoming](https://img.shields.io/badge/upcoming-8b949e?style=flat-square&color=161b22&logoColor=8b949e) | fine-tuning an LLM on NL→SQL. dataset + training loop in progress. |
 | [serverless-url-shortener](https://github.com/utsav1033/AWS-Serverless-URL-Shortener) | ![live](https://img.shields.io/badge/live-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | serverless URL shortener using AWS Lambda + S3. |
-| [prarthanaverse.com](https://github.com/utsav1033/prarthana-deployment) &nbsp; [![↗](https://img.shields.io/badge/site-8b949e?style=flat-square&color=161b22&logoColor=8b949e)](https://prarthanaverse.com) | ![live](https://img.shields.io/badge/live-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | Next.js on VPS — Docker + Nginx. server setup + container lifecycle. |
+| [prarthanaverse deployment](https://github.com/utsav1033/prarthana-deployment) &nbsp; [![↗](https://img.shields.io/badge/site-8b949e?style=flat-square&color=161b22&logoColor=8b949e)](https://prarthanaverse.com) | ![live](https://img.shields.io/badge/live-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | Next.js on VPS — Docker + Nginx. server setup + container lifecycle. |
 
 ---
 
