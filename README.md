@@ -41,9 +41,7 @@ ask me anything on AI and Backend Systems :) </br>
 
 ### dsa
 
-> **[dsa-cpp](https://github.com/utsav1033/dsa-cpp)** &nbsp;·&nbsp; Striver A2Z in C++
->
-> covered so far: arrays · recursion · backtracking · binary search · vectors
+> covered so far: arrays · recursion · backtracking · greedy · hashmaps
 >
 > `early days (-.-)zzz`
 
