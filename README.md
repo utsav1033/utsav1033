@@ -3,7 +3,7 @@
 backend engineer working on ai infrastructure 
 agent evals, harness engineering, multi-agent systems, persistent memory, and inference on apple silicon.
 
-occasionally i work on fpga's and RISC-V
+occasionally i work on fpga's and risc-v
 
 [![Gmail](https://img.shields.io/badge/Gmail-f47067?style=flat-square&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=flat-square&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
