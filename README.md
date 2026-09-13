@@ -1,6 +1,9 @@
 ## hello, i am utsav khairnar
 
-backend engineer working on ai infrastructure — agent evals, harness engineering, multi-agent systems, persistent memory, and inference on apple silicon.
+backend engineer working on ai infrastructure 
+agent evals, harness engineering, multi-agent systems, persistent memory, and inference on apple silicon.
+
+occasionally i work on fpga's and RISC-V
 
 [![Gmail](https://img.shields.io/badge/Gmail-f47067?style=flat-square&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=flat-square&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
@@ -13,9 +16,9 @@ backend engineer working on ai infrastructure — agent evals, harness engineeri
 | project | about |
 |:--|:--|
 | [agent-mark](https://github.com/utsav1033/agent-mark) | eval harness for ai agents. scored test suites, regression detection, tested against Trustclaw and open-source agents. |
-| [flowgap](https://github.com/utsav1033/flowgap) | <!-- one line on what flowgap does --> |
+| [flowgap](https://github.com/utsav1033/flowgap) | improve your voice ai agents by finding intents it misses using raw call transcipts |
 | [pret-a-query](https://github.com/utsav1033/pret-a-query) | finetuning a local llm for text-to-sql. natural language in, database query out. |
-| [mac-mlx-inference](https://github.com/utsav1033/mac-mlx-inference) | local llm inference on apple silicon using mlx. |
+| [mac-mlx-inference](https://github.com/utsav1033/mac-mlx-inference) | inference	local inference server on apple silicon (mlx, qwen 8b). extracts persistent memory from agent transcripts. prefix caching, continuous batching, benchmarked |
 
 ---
 
