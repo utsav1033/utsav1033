@@ -1,19 +1,21 @@
-<div align="center">
+### hello, i am utsav khairnar
 
-![intro](https://raw.githubusercontent.com/utsav1033/utsav1033/main/TextStudio-Typewriter.gif)
-
-### passionate in building things at the intersection of AI and backend systems. </br>
-
-currently learning DSA.</br>
-
-ask me anything on AI and Backend Systems :) </br>
+agent evals · harness engineering · multi-agent systems · persistent memory · inference on apple silicon 
 
 [![Gmail](https://img.shields.io/badge/Gmail-f47067?style=for-the-badge&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=for-the-badge&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
-[![GitHub](https://img.shields.io/badge/GitHub-8b949e?style=for-the-badge&logo=github&color=161b22&logoColor=8b949e)](https://github.com/utsav1033)
 [![LeetCode](https://img.shields.io/badge/LeetCode-e3b341?style=for-the-badge&logo=leetcode&color=2b1a00&logoColor=e3b341)](https://leetcode.com/hiccupwatch)
 
-</div>
+---
+
+### projects
+
+| project | about |
+|:--|:--|
+| [agent-mark](https://github.com/utsav1033/agent-mark) | eval harness for AI agents. tested against Trustclaw and open-source agents. |
+| [flowgap](https://github.com/utsav1033/flowgap) | improve your voice ai agents by finding the intents it lacks through raw transcipts |
+| [pret-a-query](https://github.com/utsav1033/pret-a-query) | finetuning a local LLM for text-to-SQL generation. |
+| [mac-mlx-inference](https://github.com/utsav1033/mac-mlx-inference) | local LLM inference on Apple Silicon using MLX. |
 
 ---
 
@@ -25,30 +27,3 @@ ask me anything on AI and Backend Systems :) </br>
 | **backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-7ee787?style=flat-square&logo=fastapi&color=0f2b0a&logoColor=7ee787) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-7ee787?style=flat-square&logo=springboot&color=0f2b0a&logoColor=7ee787) |
 | **infra** | ![Docker](https://img.shields.io/badge/Docker-79c0ff?style=flat-square&logo=docker&color=0c1f3a&logoColor=79c0ff) ![Nginx](https://img.shields.io/badge/Nginx-79c0ff?style=flat-square&logo=nginx&color=0c1f3a&logoColor=79c0ff) ![AWS](https://img.shields.io/badge/AWS-79c0ff?style=flat-square&logo=amazonaws&color=0c1f3a&logoColor=79c0ff) ![Terraform](https://img.shields.io/badge/Terraform-79c0ff?style=flat-square&logo=terraform&color=0c1f3a&logoColor=79c0ff) |
 | **databases** | ![MySQL](https://img.shields.io/badge/MySQL-e3b341?style=flat-square&logo=mysql&color=2b1a00&logoColor=e3b341) ![SQLite](https://img.shields.io/badge/SQLite-e3b341?style=flat-square&logo=sqlite&color=2b1a00&logoColor=e3b341) ![Supabase](https://img.shields.io/badge/Supabase-e3b341?style=flat-square&logo=supabase&color=2b1a00&logoColor=e3b341) |
-
----
-
-### projects
-
-| project | status | about |
-|:--|:--|:--|
-| [RAGHealthCareBot](https://github.com/utsav1033/RAG-Healthcare-Chatbot) &nbsp; [![↗](https://img.shields.io/badge/live%20app-8b949e?style=flat-square&color=161b22&logoColor=8b949e)](https://health-kiosk-oaw3.onrender.com) | ![wip](https://img.shields.io/badge/wip-e3b341?style=flat-square&color=2b1a00&logoColor=e3b341) | RAG-based medical QA. vector DB + auth in progress. |
-| [NeuroPanda AI Debugger](https://github.com/utsav1033/neuropanda-ai-debugger) &nbsp; [![↗](https://img.shields.io/badge/live%20app-8b949e?style=flat-square&color=161b22&logoColor=8b949e)](https://neuropanda-ai-debugger.onrender.com) | ![wip](https://img.shields.io/badge/wip-e3b341?style=flat-square&color=2b1a00&logoColor=e3b341) | RAG-powered production error debugger. paste error → root cause + related commits + past incidents. |
-| [agent-mark](https://github.com/utsav1033/agent-mark) | ![v1](https://img.shields.io/badge/upcoming-8b949e?style=flat-square&color=161b22&logoColor=8b949e) | eval harness for ai agents, ran tests on Trustclaw, and open source agent|
-| [llm-eval](https://github.com/utsav1033/llm-eval) | ![live](https://img.shields.io/badge/live-5DCAA5?style=flat-square&color=04342C&logoColor=5DCAA5) | Python library + CLI for evaluating LLM applications. define async evaluation pipelines, run scored test suites, compare prompts/models, and detect regressions. |
-
----
-
-### dsa
-
-> covered so far: arrays · recursion · backtracking · greedy · hashmaps
->
-> `early days (-.-)zzz`
-
----
-
-<div align="center">
-
-![thankyou](https://raw.githubusercontent.com/utsav1033/utsav1033/main/thankyou.svg)
-
-</div>
