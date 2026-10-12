@@ -7,6 +7,7 @@ occasionally i work on fpga's and risc-v
 
 [![Gmail](https://img.shields.io/badge/Gmail-f47067?style=flat-square&logo=gmail&color=2d0f0f&logoColor=f47067)](mailto:utsavkhairnar14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-79c0ff?style=flat-square&logo=linkedin&color=0c1f3a&logoColor=79c0ff)](https://linkedin.com/in/utsav-khairnar)
+[![Website](https://img.shields.io/badge/utsav1033.github.io-7ee787?style=flat-square&logo=googlechrome&color=0f2b0a&logoColor=7ee787)](https://utsav1033.github.io)
 [![LeetCode](https://img.shields.io/badge/LeetCode-e3b341?style=flat-square&logo=leetcode&color=2b1a00&logoColor=e3b341)](https://leetcode.com/hiccupwatch)
 
 ---
@@ -15,10 +16,11 @@ occasionally i work on fpga's and risc-v
 
 | project | about |
 |:--|:--|
-| [agent-mark](https://github.com/utsav1033/agent-mark) | eval harness for ai agents. scored test suites, regression detection, tested against Trustclaw and open-source agents. |
-| [flowgap](https://github.com/utsav1033/flowgap) | improve your voice ai agents by finding intents it misses using raw call transcipts |
+| [carmen](https://github.com/utsav1033/carmen) | an ai writes gpu kernels for apple silicon, and a judge it can't fool decides which ones are real. fused 8 mlx kernels into 2 per layer of qwen 2.5: **1.03x faster decode, identical output**. the judge caught **75/75** planted bugs; a standard one-shape check caught 40. |
+| [flowgap](https://github.com/utsav1033/flowgap) | finds what callers wanted that your voice agent can't handle, straight from raw call transcripts, and drafts the missing flow nodes. in 298 real calls, **49% asked for something the flow couldn't do**. |
+| [agent-mark](https://github.com/utsav1033/agent-mark) | eval harness for agents you can't see inside: traces every tool call, scores each run, flags regressions. one adapter runs composio's trustclaw against a live inbox. |
 | [pret-a-query](https://github.com/utsav1033/pret-a-query) | finetuning a local llm for text-to-sql. natural language in, database query out. |
-| [mac-mlx-inference](https://github.com/utsav1033/mac-mlx-inference) | inference	local inference server on apple silicon (mlx, qwen 8b). extracts persistent memory from agent transcripts. prefix caching, continuous batching, benchmarked |
+| [mac-mlx-inference](https://github.com/utsav1033/mac-mlx-inference) | local inference server on apple silicon (mlx, qwen 8b). extracts persistent memory from agent transcripts. prefix caching, continuous batching, benchmarked. |
 
 ---
 
