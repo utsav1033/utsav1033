@@ -19,8 +19,6 @@ occasionally i work on fpga's and risc-v
 | [carmen](https://github.com/utsav1033/carmen) | an ai writes gpu kernels for apple silicon, and a judge it can't fool decides which ones are real. fused 8 mlx kernels into 2 per layer of qwen 2.5: **1.03x faster decode, identical output**. the judge caught **75/75** planted bugs; a standard one-shape check caught 40. |
 | [flowgap](https://github.com/utsav1033/flowgap) | finds what callers wanted that your voice agent can't handle, straight from raw call transcripts, and drafts the missing flow nodes. in 298 real calls, **49% asked for something the flow couldn't do**. |
 | [agent-mark](https://github.com/utsav1033/agent-mark) | eval harness for agents you can't see inside: traces every tool call, scores each run, flags regressions. one adapter runs composio's trustclaw against a live inbox. |
-| [pret-a-query](https://github.com/utsav1033/pret-a-query) | finetuning a local llm for text-to-sql. natural language in, database query out. |
-| [mac-mlx-inference](https://github.com/utsav1033/mac-mlx-inference) | local inference server on apple silicon (mlx, qwen 8b). extracts persistent memory from agent transcripts. prefix caching, continuous batching, benchmarked. |
 
 ---
 
