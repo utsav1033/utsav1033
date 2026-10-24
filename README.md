@@ -1,7 +1,8 @@
 ## hello, i am utsav khairnar
 
-backend engineer working on ai infrastructure 
-agent evals, harness engineering, multi-agent systems, persistent memory, and inference on apple silicon.
+making stuff around harnesses, evals and inference
+currently into Apple Silicon and inference 
+exploring harnesses that solve hard problems like computer use, kernel generation etc
 
 occasionally i work on fpga's and risc-v
 
