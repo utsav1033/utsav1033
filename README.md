@@ -17,7 +17,7 @@ occasionally i work on fpga's and risc-v
 
 | project | about |
 |:--|:--|
-| [qwendoom](https://github.com/utsav1033/qwendoom) | the real doom, running inside a language model. nothing is trained: every token the model writes is one step of a small computer, and the game lives in the model's own memory. made it **47x faster** by skipping parts of the model that can't change the answer. first frame on its way. |
+| [qwendoom](https://github.com/utsav1033/qwendoom) | the real doom, running inside a language model. nothing is trained: every token the model writes is one step of a small computer, and the game lives in the model's own memory. made it **47x faster** by skipping parts of the model that can't change the answer. it has drawn its first **41 frames**, every pixel matching the real machine. |
 | [bytesized](https://github.com/utsav1033/bytesized) | a real llm (smollm2-135m) run by a **2,946-byte** c program, small enough to fit in one qr code. writes the exact same words as hugging face, token for token. |
 | [carmen](https://github.com/utsav1033/carmen) | an ai writes gpu kernels for apple silicon, and a judge it can't fool decides which ones are real. fused 8 mlx kernels into 2 per layer of qwen 2.5: **1.03x faster decode, identical output**. the judge caught **75/75** planted bugs; a standard one-shape check caught 40. |
 | [flowgap](https://github.com/utsav1033/flowgap) | finds what callers wanted that your voice agent can't handle, straight from raw call transcripts, and drafts the missing flow nodes. in 298 real calls, **49% asked for something the flow couldn't do**. |
